@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    text-decoration: none;
+}
+.active{
+    border-radius: 20px;
+    background-color: rgb(74, 74, 75);
+    padding: 10px;
+    color: white;
+}
+
+
